@@ -1,0 +1,5 @@
+first_name = str(input())
+first_name.reverse()
+last_name = str(input())
+last_name.reverse()
+print(first_name+" "+last_name)
